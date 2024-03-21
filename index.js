@@ -1,5 +1,5 @@
 // useGenerateWallets.js
-const generateWallets = require('zoahn');
+const generateWallets = require('cobaltca');
 
 // 使用第一个项目的功能
-generateWallets(3, 'matthewmed.xlsx');
+generateWallets(5, 'co.xlsx');
